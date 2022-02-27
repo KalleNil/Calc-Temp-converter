@@ -1,0 +1,12 @@
+B:\TUC\Programmering fördjupning\individuella uppgiften\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.csproj.AssemblyReference.cache
+B:\TUC\Programmering fördjupning\individuella uppgiften\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+B:\TUC\Programmering fördjupning\individuella uppgiften\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.AssemblyInfoInputs.cache
+B:\TUC\Programmering fördjupning\individuella uppgiften\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.AssemblyInfo.cs
+B:\TUC\Programmering fördjupning\individuella uppgiften\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+B:\TUC\Programmering fördjupning\individuella uppgiften\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.deps.json
+B:\TUC\Programmering fördjupning\individuella uppgiften\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.dll
+B:\TUC\Programmering fördjupning\individuella uppgiften\ClassLibrary1\bin\Debug\net6.0\ref\ClassLibrary1.dll
+B:\TUC\Programmering fördjupning\individuella uppgiften\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.pdb
+B:\TUC\Programmering fördjupning\individuella uppgiften\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.dll
+B:\TUC\Programmering fördjupning\individuella uppgiften\ClassLibrary1\obj\Debug\net6.0\ref\ClassLibrary1.dll
+B:\TUC\Programmering fördjupning\individuella uppgiften\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.pdb
